@@ -1,0 +1,7 @@
+name: ChatColour
+main: com.core.wolfbadger.chat.colour.enjoy.Main
+version: 1.0
+commands:
+  color:
+    description: ./color
+    usage: /color
