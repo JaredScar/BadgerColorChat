@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[BadgerColorChat Bukkit Plugin Page] (https://dev.bukkit.org/projects/paperbandages)
+[BadgerColorChat Bukkit Plugin Page] (https://dev.bukkit.org/projects/badgercolorchat)
 
 ColorChat was a plugin made for [this plugin request](http://forums.bukkit.org/threads/chat-color-changing-plugin.284745/#post-2611508). It changes your chat color with the simple command /color
 
